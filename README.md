@@ -1,3 +1,4 @@
+SIMULATION-OF-AUTOCORRELATION-AND-PSD-USING-SCILAB-1
 __AIM:__
 
 Write a program for Autocorrelation and PSD of signals in SCILAB and verify Wiener-Khinchin relation. 
